@@ -1,4 +1,4 @@
 
-# Ignite Shop
+# ProtoShop
 
-Execício do Ignite React da Rocketseat: criação de um protótipo de marketplace usando SSR e SSG com Next.js.
+creation of a marketplace prototype using SSR and SSG with Next.js.
