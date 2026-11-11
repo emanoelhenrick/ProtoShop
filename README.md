@@ -3,14 +3,14 @@
 
 <div align="center">
 
-	<p>Um marketplace de estudos construído com Next.js, Stripe e TypeScript.</p>
+<p>Um marketplace de estudos construído com Next.js, Stripe e TypeScript.</p>
 
-	<p>
-		<img src="https://img.shields.io/badge/Next.js-13.1.6-111111?style=flat-square&logo=next.js&logoColor=white" alt="Next.js 13.1.6" />
-		<img src="https://img.shields.io/badge/React-18.2.0-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 18.2.0" />
-		<img src="https://img.shields.io/badge/TypeScript-4.9.5-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript 4.9.5" />
-		<img src="https://img.shields.io/badge/Stripe-test_mode-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe em modo de teste" />
-	</p>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-13.1.6-111111?style=flat-square&logo=next.js&logoColor=white" alt="Next.js 13.1.6" />
+  <img src="https://img.shields.io/badge/React-18.2.0-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 18.2.0" />
+  <img src="https://img.shields.io/badge/TypeScript-4.9.5-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript 4.9.5" />
+  <img src="https://img.shields.io/badge/Stripe-test_mode-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe em modo de teste" />
+</p>
 
 </div>
 
